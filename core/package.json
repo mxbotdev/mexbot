@@ -1,0 +1,11 @@
+{
+  "name": "core",
+  "version": "1.0.0",
+  "description": "mexbot core message processing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Eduardo Velazquez",
+  "license": "ISC"
+}
